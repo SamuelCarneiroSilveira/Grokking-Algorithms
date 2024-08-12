@@ -1,3 +1,3 @@
 # Grokking-Algorithms
 
-Repository for my studies of the book Grooking-Algorithms - Aditya Y. Bhargava
+Repository for studies of the book Grooking-Algorithms - Aditya Y. Bhargava
