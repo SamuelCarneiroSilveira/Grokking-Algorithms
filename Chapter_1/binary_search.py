@@ -20,7 +20,4 @@ def binary_search(list, item):
 my_list = [1,3,5,7,9]
 
 print(binary_search(my_list,9)) # => 1
-# print(binary_search(my_list,-1)) # => none
-
-
-             
+# print(binary_search(my_list,-1)) # => none 10 10 = 100
