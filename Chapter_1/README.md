@@ -15,6 +15,3 @@ Ex 1.5:
 Ex 1.6: 
     O(n)
     
-
-
-Continue on page 28
